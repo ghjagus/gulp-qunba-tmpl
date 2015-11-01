@@ -1,0 +1,23 @@
+{
+  "name": "gulp-qunba-tmpl",
+  "version": "0.0.1",
+  "description": "qunba tmpl plugin",
+  "author": {
+    "name": "jagus",
+    "email": "jagus.ou@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquery/jquery.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {}
+}
